@@ -1,0 +1,7 @@
+<Food>
+    <ThaiFood>
+        <FoodID>001</FoodID>
+        <FoodName>ข้าวผัดปูไม่ใส่ผัก</FoodName>
+        <price>50บาท</price>
+    </ThaiFood>
+</Food>
