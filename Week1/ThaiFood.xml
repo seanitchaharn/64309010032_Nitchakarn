@@ -1,7 +1,52 @@
 <Food>
     <ThaiFood>
         <FoodID>001</FoodID>
-        <FoodName>ข้าวผัดปูไม่ใส่ผัก</FoodName>
+        <FoodName>ข้าวผัดปู</FoodName>
+        <price>50บาท</price>
+    </ThaiFood>
+    <ThaiFood>
+        <FoodID>002</FoodID>
+        <FoodName>ไข่ตุ๋นทะเลหม้อไฟ</FoodName>
+        <price>80บาท</price>
+    </ThaiFood>
+    <ThaiFood>
+        <FoodID>003</FoodID>
+        <FoodName>แกะอบใต้ดิน</FoodName>
+        <price>4000บาท</price>
+    </ThaiFood>
+    <ThaiFood>
+        <FoodID>004</FoodID>
+        <FoodName>กบทอด</FoodName>
+        <price>70บาท</price>
+    </ThaiFood>
+    <ThaiFood>
+        <FoodID>005</FoodID>
+        <FoodName>คะน้าหมูกรอบ</FoodName>
+        <price>60บาท</price>
+    </ThaiFood>
+    <ThaiFood>
+        <FoodID>006</FoodID>
+        <FoodName>ก๋วยเตี๋ยวต้มยำหมูโบราณ</FoodName>
+        <price>70บาท</price>
+    </ThaiFood>
+    <ThaiFood>
+        <FoodID>007</FoodID>
+        <FoodName>ต้มยำไก่</FoodName>
+        <price>100บาท</price>
+    </ThaiFood>
+    <ThaiFood>
+        <FoodID>008</FoodID>
+        <FoodName>ตำไทย</FoodName>
+        <price>40บาท</price>
+    </ThaiFood>
+    <ThaiFood>
+        <FoodID>009</FoodID>
+        <FoodName>ตำข้าวโพดไข่เค็ม</FoodName>
+        <price>50บาท</price>
+    </ThaiFood>
+    <ThaiFood>
+        <FoodID>010</FoodID>
+        <FoodName></FoodName>
         <price>50บาท</price>
     </ThaiFood>
 </Food>
